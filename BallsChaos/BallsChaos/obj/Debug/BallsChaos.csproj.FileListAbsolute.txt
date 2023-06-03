@@ -1,0 +1,11 @@
+D:\VPvtor\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe.config
+D:\VPvtor\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe
+D:\VPvtor\BallsChaos\BallsChaos\bin\Debug\BallsChaos.pdb
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.AssemblyReference.cache
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.SuggestedBindingRedirects.cache
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Form1.resources
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Properties.Resources.resources
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.GenerateResource.cache
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.CoreCompileInputs.cache
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.exe
+D:\VPvtor\BallsChaos\BallsChaos\obj\Debug\BallsChaos.pdb

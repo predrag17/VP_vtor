@@ -1,0 +1,11 @@
+D:\VPvtor\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.exe.config
+D:\VPvtor\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.exe
+D:\VPvtor\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.pdb
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.AssemblyReference.cache
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.SuggestedBindingRedirects.cache
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.Form1.resources
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.Properties.Resources.resources
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.GenerateResource.cache
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.CoreCompileInputs.cache
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.exe
+D:\VPvtor\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.pdb

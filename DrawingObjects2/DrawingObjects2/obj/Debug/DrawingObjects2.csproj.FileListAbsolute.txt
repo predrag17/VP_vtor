@@ -1,0 +1,11 @@
+D:\VPvtor\DrawingObjects2\DrawingObjects2\bin\Debug\DrawingObjects2.exe.config
+D:\VPvtor\DrawingObjects2\DrawingObjects2\bin\Debug\DrawingObjects2.exe
+D:\VPvtor\DrawingObjects2\DrawingObjects2\bin\Debug\DrawingObjects2.pdb
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.AssemblyReference.cache
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.SuggestedBindingRedirects.cache
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.Form1.resources
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.Properties.Resources.resources
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.GenerateResource.cache
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.csproj.CoreCompileInputs.cache
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.exe
+D:\VPvtor\DrawingObjects2\DrawingObjects2\obj\Debug\DrawingObjects2.pdb
