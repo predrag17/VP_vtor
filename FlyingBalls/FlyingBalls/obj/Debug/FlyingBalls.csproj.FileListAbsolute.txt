@@ -1,0 +1,11 @@
+D:\VP_vtor\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.exe.config
+D:\VP_vtor\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.exe
+D:\VP_vtor\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.pdb
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.AssemblyReference.cache
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.SuggestedBindingRedirects.cache
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.Form1.resources
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.Properties.Resources.resources
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.GenerateResource.cache
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.CoreCompileInputs.cache
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.exe
+D:\VP_vtor\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.pdb

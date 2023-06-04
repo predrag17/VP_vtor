@@ -40,9 +40,9 @@ namespace FlyingBalls
             b.Dispose();
         }
 
-        public void Move()
+        public void Move(int x, int y)
         {
-
+            Center = new Point(Center.X + x, Center.Y + y);
         }
 
         public bool isHit(Point point)
