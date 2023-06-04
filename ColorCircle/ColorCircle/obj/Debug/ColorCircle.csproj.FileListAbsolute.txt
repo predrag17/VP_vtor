@@ -1,0 +1,11 @@
+D:\VPvtor\ColorCircle\ColorCircle\bin\Debug\ColorCircle.exe.config
+D:\VPvtor\ColorCircle\ColorCircle\bin\Debug\ColorCircle.exe
+D:\VPvtor\ColorCircle\ColorCircle\bin\Debug\ColorCircle.pdb
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.AssemblyReference.cache
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.SuggestedBindingRedirects.cache
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.Form1.resources
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.Properties.Resources.resources
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.GenerateResource.cache
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.csproj.CoreCompileInputs.cache
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.exe
+D:\VPvtor\ColorCircle\ColorCircle\obj\Debug\ColorCircle.pdb
